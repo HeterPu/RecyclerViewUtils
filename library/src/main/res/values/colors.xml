@@ -7,7 +7,7 @@
     <color name="colorPrimaryLight">#C4C9E8</color>
     <color name="colorAccent">#02A8F3</color>
 
-    <color name="progress_bar_color">#ff2942</color>
+    <color name="progress_bar_color">#f57c1f</color>
     <color name="progress_bar_background_light">#FFFAFAFA</color>
 
     <color name="primary_green">#8BC34A</color>
