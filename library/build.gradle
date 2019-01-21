@@ -1,4 +1,7 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.HeterPu'
+
 
 android {
     compileSdkVersion this.compileSdkVersion
@@ -20,4 +23,3 @@ dependencies {
 }
 
 //apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'
-apply from: './gradle-mvn-push.gradle'
